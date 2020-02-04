@@ -1,0 +1,32 @@
+
+
+.post-tc {
+    height: 100%;
+    margin-top:40px;
+}
+
+.tc {
+     height: 312px;
+}
+
+.tc img {
+    height: 100%;
+}
+
+.ts {
+	height: 240px;
+}
+
+.ts img {
+	height: 100%;
+}
+
+.icon-read {
+    width: 20px;
+    height: 20px;
+    float: left;
+}
+
+.icon-read img {
+    width: 100%;
+}
